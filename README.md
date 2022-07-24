@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:![capa_Gui_01](https://user-images.githubusercontent.com/91760679/180657870-3f611c2f-11f0-4c49-90a9-71fcf827a542.png):
+<center>![capa_Gui_01](https://user-images.githubusercontent.com/91760679/180657870-3f611c2f-11f0-4c49-90a9-71fcf827a542.png)</center>
 
 
 <!--
