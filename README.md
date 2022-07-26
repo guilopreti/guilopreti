@@ -46,10 +46,11 @@
 
 <div align="center">
   <h2> &#x1f4c8; GitHub Stats </h2>
-
+<div>
   <a href="https://github.com/guilopreti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilopreti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilopreti&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 </div>
  
  ##
