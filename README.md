@@ -1,6 +1,7 @@
 <div align="center">
- <img src="https://user-images.githubusercontent.com/91760679/180848185-a49deeee-0247-475c-930e-046d4b704411.jpeg">
+ <img src="https://user-images.githubusercontent.com/91760679/181390475-90dbf226-9aaf-4872-9ab0-82ddff5e251a.png">
 </div>
+
 
 
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
