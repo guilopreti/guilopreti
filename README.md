@@ -14,9 +14,12 @@
 - 📫  **You can find me here:**  ⤵️
 <div> 
   <a href="https://www.linkedin.com/in/guilherme-lopreti-silva/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+    <img src="https://user-images.githubusercontent.com/91760679/236350719-96ec8437-60c3-4128-8d6b-04e111de9979.png" target="_blank" width="45px" height="45px">
+  </a>
  
+ <a href="https://guilhermelopreti.vercel.app/" target="_blank">
+    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-projects-61790.appspot.com/o/Ilustra%20GUI%20vers%C3%A3o%202023.png?alt=media&token=327943c9-15f4-430e-ac93-7daaef819149" target="_blank" width="48px" height="48px">
+  </a>
 </div>
 
 <div align="center">
