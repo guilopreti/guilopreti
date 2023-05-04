@@ -18,7 +18,7 @@
   </a>
  
  <a href="https://guilhermelopreti.vercel.app/" target="_blank">
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-projects-61790.appspot.com/o/Ilustra%20GUI%20vers%C3%A3o%202023.png?alt=media&token=327943c9-15f4-430e-ac93-7daaef819149" target="_blank" width="48px" height="48px">
+    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-projects-61790.appspot.com/o/Ilustra%20GUI%20vers%C3%A3o%202023.png?alt=media&token=327943c9-15f4-430e-ac93-7daaef819149" target="_blank" width="52px" height="52px">
   </a>
 </div>
 
