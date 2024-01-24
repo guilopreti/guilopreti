@@ -59,5 +59,4 @@
 </div>
  
  ##
- 
- ![Snake animation](https://github.com/guilopreti/guilopreti/blob/output/github-contribution-grid-snake.svg)
+
